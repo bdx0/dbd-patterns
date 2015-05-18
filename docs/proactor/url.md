@@ -4,3 +4,5 @@
 * http://stackoverflow.com/questions/7661473/difference-between-proactor-pattern-and-synchronous-model-in-web-server
 * http://stackoverflow.com/questions/9138294/what-is-the-difference-between-event-driven-model-and-reactor-pattern
 * http://en.wikipedia.org/wiki/Proactor_pattern
+* http://en.wikipedia.org/wiki/Asynchronous_I/O 
+* http://en.wikipedia.org/wiki/Light-weight_process
